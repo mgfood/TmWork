@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-12-14 22:07+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+#: .\main\templates\main\base.html:8
+msgid "TmWork - Платформа фриланса в Туркменистане"
+msgstr "TmWork - Платформа фриланса в Туркменистане"
+
+#: .\main\templates\main\base.html:31 .\main\templates\main\home.html:4
+msgid "Главная"
+msgstr "Главная"
+
+#: .\main\templates\main\base.html:35
+msgid "Проекты"
+msgstr "Проекты"
+
+#: .\main\templates\main\base.html:39 .\main\templates\main\home.html:24
+msgid "Войти"
+msgstr "Войти"
+
+#: .\main\templates\main\base.html:44 .\main\templates\main\home.html:21
+msgid "Регистрация"
+msgstr "Регистрация"
+
+#: .\main\templates\main\base.html:82
+msgid "Все права защищены"
+msgstr "Все права защищены"
+
+#: .\main\templates\main\home.html:12
+msgid "Добро пожаловать на TmWork"
+msgstr "Добро пожаловать на TmWork"
+
+#: .\main\templates\main\home.html:16
+msgid ""
+"Платформа для фриланса в Туркменистане. Находите проекты или заказывайте "
+"услуги легко и быстро."
+msgstr "Платформа для фриланса в Туркменистане. Находите проекты или заказывайте услуги легко и быстро."
+
+#: .\main\templates\main\home.html:38
+msgid "Сообщество фрилансеров"
+msgstr "Сообщество фрилансеров"
+
+#: .\main\templates\main\home.html:41
+msgid ""
+"Найдите специалистов или проекты, чтобы развивать свой бизнес или навыки."
+msgstr "Найдите специалистов или проекты, чтобы развивать свой бизнес или навыки."
+
+#: .\main\templates\main\home.html:49
+msgid "Безопасные платежи"
+msgstr "Безопасные платежи"
+
+#: .\main\templates\main\home.html:52
+msgid "Оплачивайте услуги безопасно и удобно прямо через платформу."
+msgstr "Оплачивайте услуги безопасно и удобно прямо через платформу."
+
+#: .\main\templates\main\home.html:60
+msgid "Простота и скорость"
+msgstr "Простота и скорость"
+
+#: .\main\templates\main\home.html:63
+msgid "Разместите проект или откликнитесь на задание за считанные минуты."
+msgstr "Разместите проект или откликнитесь на задание за считанные минуты."
+
+#: .\main\templates\main\home.html:76
+msgid "Начните прямо сейчас!"
+msgstr "Начните прямо сейчас!"
+
+#: .\main\templates\main\home.html:79
+msgid "Регистрация бесплатна, а доступ ко всем проектам мгновенный."
+msgstr "Регистрация бесплатна, а доступ ко всем проектам мгновенный."
+
+#: .\main\templates\main\home.html:82
+msgid "Создать аккаунт"
+msgstr "Создать аккаунт"
