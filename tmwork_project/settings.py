@@ -117,5 +117,5 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 STATICFILES_DIRS = [
-    BASE_DIR / 'bootstrap'
+    BASE_DIR / 'bootstrap-5.3'
 ]
